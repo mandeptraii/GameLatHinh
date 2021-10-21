@@ -1,2 +1,2 @@
 Follow this path to play game:   GameLatHinh\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe      
-Wish you have happy gaming time
+Open volumn is recommend, and make sure you play to level 3. Wish you have happy gaming time :>
